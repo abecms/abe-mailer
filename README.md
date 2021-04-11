@@ -5,7 +5,7 @@
 Install plugin via AbeCMS CL:
 
 ```bash
-abe install wonknu/abe-mailer
+abe install abecms/abe-mailer
 ```
 
 Copy Javascript asset from the plugin to your frontend assets:
@@ -50,7 +50,7 @@ or open `abe.json` and add this:
 {
   "mail": {
   	"from": "no-reply@abecms.com",
-    "recipient": "fabrice.labbe@adfab.fr",
+    "recipient": "gregory.besson@abecms.com",
     "template": "/mail/contact.html",
     "subject": "Contact hedonic"
   },
