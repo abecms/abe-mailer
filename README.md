@@ -32,7 +32,7 @@ var CONST = {
 
 **Important:** You have to handle form validation, all this script does is `myForm.checkValidity()` wich only check browser default validation such as required attribute or type attribute (email, number, etc.).
 
-This repository contains "custom" folder which copied to your root folder on postinstall.  
+This repository contains "custom" folder which copied to your root folder on postinstall.
 This will add a new tab "Mail configuration".
 
 ## Configuration
