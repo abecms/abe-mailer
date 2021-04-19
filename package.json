@@ -6,9 +6,6 @@
     "request": "^2.81.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "postinstall" : "mkdir -p ../../mail && cp -n template-mail/contact.html ../../mail"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abecms/abe-mailer.git"
